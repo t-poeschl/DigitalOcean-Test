@@ -30,19 +30,19 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '63692355dc01fa320f4df0b0306eaaaecf1bb287',
-    'name' => '__root__',
+    'reference' => 'f0f843278635bc1af0972db88a7211d62b650ede',
+    'name' => 'digitalocean-apps/sample-php',
   ),
   'versions' => 
   array (
-    '__root__' => 
+    'digitalocean-apps/sample-php' => 
     array (
       'pretty_version' => 'dev-main',
       'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => '63692355dc01fa320f4df0b0306eaaaecf1bb287',
+      'reference' => 'f0f843278635bc1af0972db88a7211d62b650ede',
     ),
   ),
 );
