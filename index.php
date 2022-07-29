@@ -2,5 +2,5 @@
 require __DIR__ . '/vendor/autoload.php';
 
 echo "::test";
-echo $_SERVER['DO_Connecting-IP'];
+echo $_SERVER['do-connecting-ip'];
 echo "test::";
